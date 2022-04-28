@@ -97,7 +97,8 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 
 ## Videos
 
-- [Sans Operations - Pen Testing Smart Contracts to Stop The Next Poly Network Hack](https://youtu.be/BZXv3kUygNU)
+ [Sans Operations - Pen Testing Smart Contracts to Stop The Next Poly Network Hack](https://youtu.be/BZXv3kUygNU)
+
 For everyone who missed it, the RazzorSec UnChained event replay:
 
 **Day 1**
