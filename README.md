@@ -56,6 +56,14 @@ Smart Contract Security Practice | Lv1 Fallback Attack
 
 - [Fallback Attack](https://github.com/felix0888/fallback-attack)
 
+This repo includes defi security patterns with smart contract examples and use cases
+
+- [Smart Contract Security Patterns](https://github.com/CeliktepeMurat/Smart-Contract-Security-Patterns)
+
+<https://www.securing.pl/en/reentrancy-attack-in-smart-contracts-is-it-still-a-problem/>
+
+<https://cmichel.io/how-to-become-a-smart-contract-auditor/>
+
 <https://useweb3.xyz/>
 
 <https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html>
@@ -68,8 +76,9 @@ Smart Contract Security Practice | Lv1 Fallback Attack
 
 <https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum>
 
+<https://twitter.com/immunefi/status/1429878106509217796?t=fiZa3sHXh73JpzPIroO52A&s=19>
 
-
+- [Flash Loan, Re-Entrancy Attack, and DEX Oracle Manipulation Exploit on Ethereum](https://medium.com/@mikedefi/flash-loan-reentry-attack-and-dex-oracle-manipulation-exploit-on-ethereum-trojan-coin-bricks-7969820589d7)
 
 ## Practice Challenges
 
@@ -86,8 +95,9 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
 
-## Event Videos
+## Videos
 
+- [Sans Operations - Pen Testing Smart Contracts to Stop The Next Poly Network Hack](https://youtu.be/BZXv3kUygNU)
 For everyone who missed it, the RazzorSec UnChained event replay:
 
 **Day 1**
@@ -102,6 +112,18 @@ For everyone who missed it, the RazzorSec UnChained event replay:
 - [Solidity Cheatsheets](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 - [How To Lazy Mint NFTs](https://moralis.io/how-to-lazy-mint-nfts/)
+
+<https://github.com/smartcontractkit/full-blockchain-solidity-course-py>
+
+<https://www.tutorialspoint.com/solidity/index.htm>
+
+- [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
+
+- [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD) 
+
+- [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
+
+- [Defi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
 
 ## Tools
 
