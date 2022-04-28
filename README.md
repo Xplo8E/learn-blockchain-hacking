@@ -76,9 +76,10 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 For everyone who missed it, the RazzorSec UnChained event replay:
 
 **Day 1**
-  - [Part 1: ](https://www.youtube.com/watch?v=6hHDomKyQdc)
-  - [Part 2: ](https://www.youtube.com/watch?v=UYEHFdn10gk)
+  - [Part 1](https://www.youtube.com/watch?v=6hHDomKyQdc)
+  - [Part 2](https://www.youtube.com/watch?v=UYEHFdn10gk)
 
+**Day 2**
   - [Day 2](https://www.youtube.com/watch?v=BslCXPjl50M)
 
 ## Development
