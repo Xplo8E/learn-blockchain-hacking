@@ -1,4 +1,4 @@
-# learn-blockchain-hacking
+# Learn-blockchain-hacking
 
 I collected Github Repositories, blogs and Research papers related to Blocchain Hacking.
 I mainly Gathered These Resources From The **[Immunefi](https://immunefi.com)** Discord Channel.
