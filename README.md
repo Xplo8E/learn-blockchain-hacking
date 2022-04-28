@@ -56,6 +56,21 @@ Smart Contract Security Practice | Lv1 Fallback Attack
 
 - [Fallback Attack](https://github.com/felix0888/fallback-attack)
 
+<https://useweb3.xyz/>
+
+<https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html>
+
+<https://arxiv.org/pdf/2106.10740.pdf>
+
+<https://github.com/OffcierCia/DeFi-Developer-Road-Map>
+
+<https://twitter.com/hashtag/immunefischool?src=hashtag_click>
+
+<https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum>
+
+
+
+
 ## Practice Challenges
 
 - [Immunefi Community Challenges](https://github.com/immunefi-team/community-challenges)
